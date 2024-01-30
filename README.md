@@ -40,7 +40,7 @@ Connect with me on [LinkedIn](https://linkedin.com/in/tireniadekoya) 🌐
 
 - 🤝 I’m looking for help with **Algorithmic Trading System**
 
-- 👨‍💻 All of my projects are available at [https://tirenidavidportfolio.netlify.app/](https://tirenidavidportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/TireniDavid?tab=repositories/]
 
 - 📫 How to reach me **davidadekoya718@gmail.com**
 
