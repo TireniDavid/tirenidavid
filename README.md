@@ -37,8 +37,6 @@ Connect with me on [LinkedIn](https://linkedin.com/in/tireniadekoya) 🌐
   
 - 🔭 I’m currently working on **Algorithmic Trading System**
 
-- 👯 I’m looking to collaborate on **Algorithmic Trading System**
-
 - 🤝 I’m looking for help with **Algorithmic Trading System**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TireniDavid?tab=repositories/]
