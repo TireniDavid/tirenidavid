@@ -37,7 +37,7 @@ Connect with me on [LinkedIn](https://linkedin.com/in/tireniadekoya) 🌐
 
 ## 🚧 Projects
   
-- 🔭 I’m currently working on **User Authentication App**
+- 🔭 I’m currently working on **Algorithmic Trading System**
 
 - 👯 I’m looking to collaborate on **Algorithmic Trading System**
 
