@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Tireni D. Adekoya
 
-📍 Katy, TX📍 **Living in Katy, TX** 🌳☀️
+📍**Living in Katy, TX** 🌳☀️
 
 
 A proud resident of Katy, Texas, where the sun always shines, and the trees whisper tranquility.
