@@ -1,7 +1,10 @@
-# tirenidavid2024
 # Hey there! 👋 I'm Tireni D. Adekoya
 
-📍 Katy, TX 77494
+📍 Katy, TX📍 **Living in Katy, TX** 🌳☀️
+
+
+A proud resident of Katy, Texas, where the sun always shines, and the trees whisper tranquility.
+
 
 🌐 [My Portfolio](https://tirenidavidportfolio.netlify.app) | 📞 +1 (223) 237-0906 | 📧 daviddadekoya718@gmail.com
 
