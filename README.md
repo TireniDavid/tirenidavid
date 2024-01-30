@@ -44,8 +44,6 @@ Connect with me on [LinkedIn](https://linkedin.com/in/tireniadekoya) 🌐
 
 - 📫 How to reach me **davidadekoya718@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/david/Downloads/Resumes/Tireni%20Resume%20(Computer%20Science).pdf](file:///C:/Users/david/Downloads/Resumes/Tireni%20Resume%20(Computer%20Science).pdf)
-
 ## 👩‍💻 Related Experience
 
 **Software Development Engineering Intern (Quantum Computing)**  
