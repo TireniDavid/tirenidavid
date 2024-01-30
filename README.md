@@ -7,11 +7,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirenidavid" alt="tirenidavid" /></a> </p>
 
 A proud resident of Katy, Texas, where the sun always shines, and the trees whisper tranquility.
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tirenidavid&" alt="tirenidavid" /></p>
+
 
 🌐 [My Portfolio](https://tirenidavidportfolio.netlify.app) | 📞 +1 (223) 237-0906 | 📧 davidadekoya718@gmail.com
 
 Connect with me on [LinkedIn](https://linkedin.com/in/tireniadekoya) 🌐
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tirenidavid&" alt="tirenidavid" /></p>
 
 ## 💻 Skills & Software Proficiencies
 <h3 align="left">Languages:</h3>
