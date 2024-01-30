@@ -1,7 +1,10 @@
-# Hey there! 👋 I'm Tireni D. Adekoya
+<h1 align="center">Hi 👋, I'm Tireni Adekoya</h1>
+<h3 align="center">A passionate Software Developer Intern Based in United States</h3>
 
 📍**Living in Katy, TX** 🌳☀️
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirenidavid&label=Profile%20views&color=0e75b6&style=flat" alt="tirenidavid" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirenidavid" alt="tirenidavid" /></a> </p>
 
 A proud resident of Katy, Texas, where the sun always shines, and the trees whisper tranquility.
 
@@ -11,7 +14,6 @@ A proud resident of Katy, Texas, where the sun always shines, and the trees whis
 Connect with me on [LinkedIn](https://linkedin.com/in/tireniadekoya) 🌐
 
 ## 🎓 Education
-
 **Alabama A & M University**  
 - B.S. in Computer Science
 - Concentrations: Artificial Intelligence
@@ -37,6 +39,20 @@ Connect with me on [LinkedIn](https://linkedin.com/in/tireniadekoya) 🌐
 - Multithreading/Multiprocessing
 - Engineering Programming (MATLAB)
 
+## 🚧 Projects
+  
+- 🔭 I’m currently working on **User Authentication App**
+
+- 👯 I’m looking to collaborate on **Algorithmic Trading System**
+
+- 🤝 I’m looking for help with **Algorithmic Trading System**
+
+- 👨‍💻 All of my projects are available at [https://tirenidavidportfolio.netlify.app/](https://tirenidavidportfolio.netlify.app/)
+
+- 📫 How to reach me **davidadekoya718@gmail.com**
+
+- 📄 Know about my experiences [file:///C:/Users/david/Downloads/Resumes/Tireni%20Resume%20(Computer%20Science).pdf](file:///C:/Users/david/Downloads/Resumes/Tireni%20Resume%20(Computer%20Science).pdf)
+
 ## 👩‍💻 Related Experience
 
 **Software Development Engineering Intern (Quantum Computing)**  
@@ -55,30 +71,6 @@ Connect with me on [LinkedIn](https://linkedin.com/in/tireniadekoya) 🌐
 *The Hershey Company, Hershey, PA (May. 2023 – Aug. 2023)*
 - Developed communication and teamwork skills.
 - Leveraged analytical and problem-solving skills for project improvement.
-
-## 🚧 Projects
-
-**Personal Portfolio**  
-*Katy, TX (Winter 2023)*
-- Developed a feature-rich portfolio website using HTML, CSS, and JavaScript, showcasing strong front-end programming skills (UI/UX design & Web Development Responsivity).
-  <h1 align="center">Hi 👋, I'm Tireni Adekoya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirenidavid&label=Profile%20views&color=0e75b6&style=flat" alt="tirenidavid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirenidavid" alt="tirenidavid" /></a> </p>
-
-- 🔭 I’m currently working on **User Authentication App**
-
-- 👯 I’m looking to collaborate on **Algorithmic Trading System**
-
-- 🤝 I’m looking for help with **Algorithmic Trading System**
-
-- 👨‍💻 All of my projects are available at [https://tirenidavidportfolio.netlify.app/](https://tirenidavidportfolio.netlify.app/)
-
-- 📫 How to reach me **davidadekoya718@gmail.com**
-
-- 📄 Know about my experiences [file:///C:/Users/david/Downloads/Resumes/Tireni%20Resume%20(Computer%20Science).pdf](file:///C:/Users/david/Downloads/Resumes/Tireni%20Resume%20(Computer%20Science).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
