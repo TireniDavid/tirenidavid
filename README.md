@@ -6,7 +6,7 @@
 A proud resident of Katy, Texas, where the sun always shines, and the trees whisper tranquility.
 
 
-🌐 [My Portfolio](https://tirenidavidportfolio.netlify.app) | 📞 +1 (223) 237-0906 | 📧 daviddadekoya718@gmail.com
+🌐 [My Portfolio](https://tirenidavidportfolio.netlify.app) | 📞 +1 (223) 237-0906 | 📧 davidadekoya718@gmail.com
 
 Connect with me on [LinkedIn](https://linkedin.com/in/tireniadekoya) 🌐
 
