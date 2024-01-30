@@ -13,12 +13,6 @@ A proud resident of Katy, Texas, where the sun always shines, and the trees whis
 
 Connect with me on [LinkedIn](https://linkedin.com/in/tireniadekoya) 🌐
 
-## 🎓 Education
-**Alabama A & M University**  
-- B.S. in Computer Science
-- Concentrations: Artificial Intelligence
-- GPA: 4.0/4.0, Dean’s List
-
 ## 💻 Skills & Software Proficiencies
 
 **Tools:**
