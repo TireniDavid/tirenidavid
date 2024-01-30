@@ -21,10 +21,6 @@ Connect with me on [LinkedIn](https://linkedin.com/in/tireniadekoya) 🌐
 
 ## 💻 Skills & Software Proficiencies
 
-**Programming:**
-- Java, Python, JavaScript, C/C++, React.js
-- HTML, CSS, MATLAB
-
 **Tools:**
 - VS Code, PyCharm, Eclipse, Git
 - Bootstrap, IBM Qiskit
